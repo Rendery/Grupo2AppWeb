@@ -31,9 +31,18 @@ namespace WEB_Taller.Controllers
         [HttpPost]
         public StatusCodeResult Post([FromBody] Category category)
         {
-            if (category.name == "")
-                return StatusCode(400);
-            return StatusCode(201);
+            try
+            {
+                if (category.name == "")
+                    return StatusCode(400); // Client error (falla del usuario)
+
+                return StatusCode(201); // Client succes (usuario ideal)
+            }
+            catch (Exception ex)
+            {
+                // Falla Guardada xD
+                return StatusCode(500); // Server error (no eres tu, soy yo)
+            }
         }
 
         // PUT api/<Category>/5
