@@ -33,3 +33,17 @@ obj/
 *.pidb
 *.svclog
 *.scc
+WEB_Taller/bin/Debug/net7.0/WEB_Taller.dll
+WEB_Taller/bin/Debug/net7.0/WEB_Taller.pdb
+WEB_Taller/obj/Debug/net7.0/ref/WEB_Taller.dll
+WEB_Taller/obj/Debug/net7.0/refint/WEB_Taller.dll
+WEB_Taller/obj/Debug/net7.0/WEB_Taller.assets.cache
+WEB_Taller/obj/Debug/net7.0/WEB_Taller.csproj.CoreCompileInputs.cache
+WEB_Taller/obj/Debug/net7.0/WEB_Taller.csproj.FileListAbsolute.txt
+WEB_Taller/obj/Debug/net7.0/WEB_Taller.dll
+WEB_Taller/obj/Debug/net7.0/WEB_Taller.GeneratedMSBuildEditorConfig.editorconfig
+WEB_Taller/obj/Debug/net7.0/WEB_Taller.genruntimeconfig.cache
+WEB_Taller/obj/Debug/net7.0/WEB_Taller.pdb
+WEB_Taller/obj/project.assets.json
+WEB_Taller/obj/project.nuget.cache
+WEB_Taller/obj/WEB_Taller.csproj.nuget.dgspec.json
