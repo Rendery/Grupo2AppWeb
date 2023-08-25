@@ -23,14 +23,26 @@ namespace WEB_Taller.Controllers
             componente.Id = id;
             componente.Name = "name";
             componente.Description = "description";
-            componente.Price = 8;
+            componente.Price = 9.99;
             return componente;
         }
 
         // POST api/<ComponentsController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public StatusCodeResult Post([FromBody] Components components)
         {
+            try
+            {
+                if (components.Name == "")
+                    return StatusCode(400); // Client error (falla del usuario)
+
+                return StatusCode(201); // Client succes (usuario ideal)
+            }
+            catch (Exception ex)
+            {
+                // Falla Guardada xD
+                return StatusCode(500); // Server error (no eres tu, soy yo)
+            }
         }
 
         // PUT api/<ComponentsController>/5

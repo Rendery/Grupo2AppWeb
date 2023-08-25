@@ -23,15 +23,26 @@ namespace WEB_Taller.Controllers
             Client client = new Client();
             client.Id = id;
             client.Name = "Rendery";
-            client.Description = """Frencuente 24/7""";
+            client.Description = "Frencuente 24/7";
             return client;
         }
 
         // POST api/<ClientController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public StatusCodeResult Post([FromBody] Client client)
         {
+            try
+            {
+                if (client.Name == "")
+                    return StatusCode(400); // Client error (falla del usuario)
 
+                return StatusCode(201); // Client succes (usuario ideal)
+            }
+            catch (Exception ex)
+            {
+                // Falla Guardada xD
+                return StatusCode(500); // Server error (no eres tu, soy yo)
+            }
         }
 
         // PUT api/<ClientController>/5
