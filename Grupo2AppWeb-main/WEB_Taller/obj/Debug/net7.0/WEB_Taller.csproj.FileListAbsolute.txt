@@ -1,0 +1,99 @@
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\bin\Debug\net7.0\appsettings.Development.json
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\bin\Debug\net7.0\appsettings.json
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\bin\Debug\net7.0\WEB_Taller.exe
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\bin\Debug\net7.0\WEB_Taller.deps.json
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\bin\Debug\net7.0\WEB_Taller.runtimeconfig.json
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\bin\Debug\net7.0\WEB_Taller.dll
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\bin\Debug\net7.0\WEB_Taller.pdb
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\WEB_Taller.csproj.AssemblyReference.cache
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\WEB_Taller.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\WEB_Taller.AssemblyInfoInputs.cache
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\WEB_Taller.AssemblyInfo.cs
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\WEB_Taller.csproj.CoreCompileInputs.cache
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\WEB_Taller.MvcApplicationPartsAssemblyInfo.cs
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\WEB_Taller.MvcApplicationPartsAssemblyInfo.cache
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\staticwebassets\msbuild.WEB_Taller.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\staticwebassets\msbuild.build.WEB_Taller.props
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WEB_Taller.props
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WEB_Taller.props
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\staticwebassets.build.json
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\staticwebassets.development.json
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\scopedcss\bundle\WEB_Taller.styles.css
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\WEB_Taller.csproj.CopyComplete
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\WEB_Taller.dll
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\refint\WEB_Taller.dll
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\WEB_Taller.pdb
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\WEB_Taller.genruntimeconfig.cache
+E:\Trabajos\UPC\App web\2023Talleres\WEB_Taller\WEB_Taller\obj\Debug\net7.0\ref\WEB_Taller.dll
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\bin\Debug\net7.0\appsettings.Development.json
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\bin\Debug\net7.0\appsettings.json
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\bin\Debug\net7.0\WEB_Taller.exe
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\bin\Debug\net7.0\WEB_Taller.deps.json
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\bin\Debug\net7.0\WEB_Taller.runtimeconfig.json
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\bin\Debug\net7.0\WEB_Taller.dll
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\bin\Debug\net7.0\WEB_Taller.pdb
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\WEB_Taller.csproj.AssemblyReference.cache
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\WEB_Taller.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\WEB_Taller.AssemblyInfoInputs.cache
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\WEB_Taller.AssemblyInfo.cs
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\WEB_Taller.csproj.CoreCompileInputs.cache
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\WEB_Taller.MvcApplicationPartsAssemblyInfo.cs
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\WEB_Taller.MvcApplicationPartsAssemblyInfo.cache
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\staticwebassets\msbuild.WEB_Taller.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\staticwebassets\msbuild.build.WEB_Taller.props
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WEB_Taller.props
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WEB_Taller.props
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\staticwebassets.build.json
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\staticwebassets.development.json
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\scopedcss\bundle\WEB_Taller.styles.css
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\WEB_Taller.csproj.CopyComplete
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\WEB_Taller.dll
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\refint\WEB_Taller.dll
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\WEB_Taller.pdb
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\WEB_Taller.genruntimeconfig.cache
+E:\Trabajos\UPC\App web\2023Talleres\Grupo2AppWeb\WEB_Taller\obj\Debug\net7.0\ref\WEB_Taller.dll
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\bin\Debug\net7.0\appsettings.Development.json
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\bin\Debug\net7.0\appsettings.json
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\bin\Debug\net7.0\WEB_Taller.exe
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\bin\Debug\net7.0\WEB_Taller.deps.json
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\bin\Debug\net7.0\WEB_Taller.runtimeconfig.json
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\bin\Debug\net7.0\WEB_Taller.dll
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\bin\Debug\net7.0\WEB_Taller.pdb
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\bin\Debug\net7.0\Microsoft.OpenApi.dll
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\WEB_Taller.csproj.AssemblyReference.cache
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\WEB_Taller.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\WEB_Taller.AssemblyInfoInputs.cache
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\WEB_Taller.AssemblyInfo.cs
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\WEB_Taller.csproj.CoreCompileInputs.cache
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\WEB_Taller.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\WEB_Taller.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\staticwebassets\msbuild.WEB_Taller.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\staticwebassets\msbuild.build.WEB_Taller.props
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WEB_Taller.props
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WEB_Taller.props
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\staticwebassets.pack.json
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\staticwebassets.development.json
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\scopedcss\bundle\WEB_Taller.styles.css
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\WEB_Taller.csproj.CopyComplete
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\WEB_Taller.dll
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\refint\WEB_Taller.dll
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\WEB_Taller.pdb
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\WEB_Taller.genruntimeconfig.cache
+c:\Users\LiricaZ\Desktop\Grupo2AppWeb-main\WEB_Taller\obj\Debug\net7.0\ref\WEB_Taller.dll
