@@ -469,26 +469,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rendery\\.nuget\\packages\\": {}
+    "C:\\Users\\LiricaZ\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Trabajos\\UPC\\App web\\2023Talleres\\Grupo2AppWeb\\WEB_Taller\\WEB_Taller.csproj",
+      "projectUniqueName": "c:\\Users\\LiricaZ\\Desktop\\Grupo2AppWeb-main\\WEB_Taller\\WEB_Taller.csproj",
       "projectName": "WEB_Taller",
-      "projectPath": "E:\\Trabajos\\UPC\\App web\\2023Talleres\\Grupo2AppWeb\\WEB_Taller\\WEB_Taller.csproj",
-      "packagesPath": "C:\\Users\\Rendery\\.nuget\\packages\\",
-      "outputPath": "E:\\Trabajos\\UPC\\App web\\2023Talleres\\Grupo2AppWeb\\WEB_Taller\\obj\\",
+      "projectPath": "c:\\Users\\LiricaZ\\Desktop\\Grupo2AppWeb-main\\WEB_Taller\\WEB_Taller.csproj",
+      "packagesPath": "C:\\Users\\LiricaZ\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\LiricaZ\\Desktop\\Grupo2AppWeb-main\\WEB_Taller\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Rendery\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\LiricaZ\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

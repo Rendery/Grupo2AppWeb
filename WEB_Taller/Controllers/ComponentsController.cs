@@ -53,8 +53,19 @@ namespace WEB_Taller.Controllers
 
         // DELETE api/<ComponentsController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public IActionResult Delete(Guid id)
         {
+            try
+            {
+                return Ok("User deleted successfully.");//Eliminado de la faz de la tierra
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "An error occurred while processing the request.");//F
+            }
         }
+    
+
+        
     }
 }
